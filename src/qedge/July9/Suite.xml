@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name = "Ami">
+<test name = "ReportHTML">
+<classes>
+<class name ="qedge.July7.TestNGDemo">
+</class>
+<class name = "qedge.July7.Demo2TestNG">
+</class>
+<class name = "qedge.July9.Demo1Dependent">
+</class>
+<class name = "qedge.July9.UsingDepends">
+</class>
+</classes>
+</test>
+</suite>

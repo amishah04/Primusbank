@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Ami]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="ReportHTML(failed)">
+    <classes>
+      <class name="qedge.July7.Demo2TestNG">
+        <methods>
+          <include name="multiplication"/>
+          <include name="setUp"/>
+          <include name="addtion"/>
+          <include name="division"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- qedge.July7.Demo2TestNG -->
+    </classes>
+  </test> <!-- ReportHTML(failed) -->
+</suite> <!-- Failed suite [Ami] -->
